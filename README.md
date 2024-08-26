@@ -17,6 +17,7 @@
 - [연관관계 매핑 1 - 방향과 연관관계의 주인](/JPA/[JPA]%20연관관계%20매핑%201.md)
 - [연관관계 매핑 2 - 다중성](/JPA/[JPA]%20연관관계%20매핑%202.md)
 - [상속관계 매핑](/JPA/[JPA]%20상속%20관계%20매핑.md)
+- [@MappedSuperClass](/JPA/[JPA]%20@MappedSuperClass.md)
 
 
 ## Reference

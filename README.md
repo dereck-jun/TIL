@@ -22,6 +22,7 @@
 ### 프록시와 연관관계 관리
 - [프록시](/JPA/[JPA]%20프록시.md)
 - [즉시 로딩과 지연 로딩](/JPA/[JPA]%20즉시%20로딩과%20지연%20로딩.md)
+- [영속성 전이](/JPA/[JPA]%20영속성%20전이.md)
 
 
 ## Reference
@@ -31,3 +32,4 @@
 ### 블로그
 - [JPA 연관 관계 한방에 정리 (단방향/양방향, 연관 관계의 주인, 일대일, 다대일, 일대다, 다대다)](https://jeong-pro.tistory.com/231)
 - [[JPA] 프록시란?](https://ict-nroo.tistory.com/131)
+- [도메인 주도 설계 (3) - 애그리거트](https://velog.io/@gentledot/ddd-aggregate)

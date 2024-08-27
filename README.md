@@ -19,6 +19,9 @@
 - [상속관계 매핑](/JPA/[JPA]%20상속%20관계%20매핑.md)
 - [@MappedSuperClass](/JPA/[JPA]%20@MappedSuperClass.md)
 
+### 프록시와 연관관계 관리
+- [프록시](/JPA/[JPA]%20프록시.md)
+
 
 ## Reference
 ### 인프런
@@ -26,3 +29,4 @@
 
 ### 블로그
 - [JPA 연관 관계 한방에 정리 (단방향/양방향, 연관 관계의 주인, 일대일, 다대일, 일대다, 다대다)](https://jeong-pro.tistory.com/231)
+- [[JPA] 프록시란?](https://ict-nroo.tistory.com/131)

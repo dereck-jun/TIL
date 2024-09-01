@@ -31,6 +31,7 @@
 ### 객체 지향 쿼리 언어
 - [소개](/JPA/[JPA]%20소개.md)
 - [프로젝션](/JPA/[JPA]%20프로젝션.md)
+- [페이징 API](/JPA/[JPA]%20페이징%20API.md)
 
 
 ## Reference

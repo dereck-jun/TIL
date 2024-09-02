@@ -42,3 +42,4 @@
 - [JPA 연관 관계 한방에 정리 (단방향/양방향, 연관 관계의 주인, 일대일, 다대일, 일대다, 다대다)](https://jeong-pro.tistory.com/231)
 - [[JPA] 프록시란?](https://ict-nroo.tistory.com/131)
 - [도메인 주도 설계 (3) - 애그리거트](https://velog.io/@gentledot/ddd-aggregate)
+- [한빛 미디어 - SQL 기본 문법: JOIN](https://hongong.hanbit.co.kr/sql-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-joininner-outer-cross-self-join/)

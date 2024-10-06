@@ -37,6 +37,7 @@
 - [페이징 API](/JPA/[JPA]%20페이징%20API.md)
 - [JPQL 타입 표현과 기타식](/JPA/[JPA]%20JPQL%20타입%20표현과%20기타식.md)
 - [JPQL 함수](/JPA/[JPA]%20JQPL%20함수.md)
+- [경로 표현식](/JPA/[JPA]%20경로%20표현식.md)
 
 
 ## Reference

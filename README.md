@@ -38,6 +38,7 @@
 - [JPQL 타입 표현과 기타식](/JPA/[JPA]%20JPQL%20타입%20표현과%20기타식.md)
 - [JPQL 함수](/JPA/[JPA]%20JQPL%20함수.md)
 - [경로 표현식](/JPA/[JPA]%20경로%20표현식.md)
+- [페치 조인](/JPA/[JPA]%20페치%20조인.md)
 
 
 ## Reference

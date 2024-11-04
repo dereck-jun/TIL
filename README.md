@@ -2,6 +2,9 @@
 ## DB
 - [JOIN](/DB/join.md)
 
+## Batch
+- [일반적인 배치 시스템](/Batch/일반적인%20배치%20시스템.md)
+
 ## JDBC
 ### JDBC 이해
 - [기본](/JDBC/[JDBC]%20JDBC%20기본.md)
